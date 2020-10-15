@@ -1,5 +1,7 @@
 # spacer-rad
 
+First step in Vue - view nasa foto
+
 ## Project setup
 ```
 npm install
